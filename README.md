@@ -29,10 +29,10 @@ pip install -r requirements.txt
 
 ### .env 文件範例
 
-DB_HOST=localhost
-DB_PORT=yourport
-DB_SERVICE_NAME=yourservicename
-DB_USER=yourusername
+DB_HOST=localhost  
+DB_PORT=yourport  
+DB_SERVICE_NAME=yourservicename  
+DB_USER=yourusername  
 DB_PASSWORD=yourpassword
 
 ### 啟動項目
