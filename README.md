@@ -37,7 +37,7 @@ DB_PASSWORD=yourpassword
 
 ### 啟動項目
 
-python mmh_psn_his_api.py.py
+python mmh_psn_his_api.py
 
 ├── mmh_psn_api.py.py # 主應用文件
 ├── requirements.txt # 依賴文件
