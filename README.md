@@ -4,7 +4,8 @@
 
 ### 安裝 Python
 
-請確保你的系統上已安裝 Python 3.6 以上版本。你可以在終端或命令提示符中運行以下命令來檢查 Python 版本：
+請確保你的系統上已安裝 Python 3.6 以上版本。  
+你可以在終端或命令提示符中運行以下命令來檢查 Python 版本：
 
 ```bash
 python --version
@@ -39,7 +40,7 @@ DB_PASSWORD=yourpassword
 
 python mmh_psn_his_api.py
 
-├── mmh_psn_api.py.py # 主應用文件
-├── requirements.txt # 依賴文件
-├── .env.example # 環境變量文件示例
+├── mmh_psn_api.py.py # 主應用文件  
+├── requirements.txt # 依賴文件  
+├── .env.example # 環境變量文件示例  
 ├── README.md # 項目說明文件
